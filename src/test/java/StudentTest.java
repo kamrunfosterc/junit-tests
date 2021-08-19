@@ -1,2 +1,11 @@
-package PACKAGE_NAME;public class StudentTest {
+import org.junit.Test;
+import static org.junit.Assert.*;
+public class StudentTest {
+
+    @Test
+    public void testGetName(){
+
+    }
+
+
 }
